@@ -1,0 +1,12 @@
+body {
+  background-color: black;
+  color: #ff69b4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+  font-family: 'Baloo Chettan 2', cursive;
+  margin: 0;
+  padding: 0;
+}
